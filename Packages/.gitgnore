@@ -3,3 +3,4 @@
 
 # But packages folder
 !Packages/
+!Packages/*
